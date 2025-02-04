@@ -44,5 +44,7 @@ This setup allows users to send a *POST request* to /predict with the banknote's
 
 ![Image](https://github.com/user-attachments/assets/18ece7f5-0cc6-45f1-be03-555721c4da55)
 
+![Image](https://github.com/user-attachments/assets/611a36cb-98ad-4161-bc6f-2f72a90f63b5)
+
 
 
