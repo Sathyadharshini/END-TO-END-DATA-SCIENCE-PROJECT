@@ -41,3 +41,7 @@ The temp.py code creates a *FastAPI web application* that uses a pre-trained *ma
 4. *Running the Application:*
    - The FastAPI application is run using the *Uvicorn server* on localhost:8000, with the *auto-reload* feature enabled for easy development. This ensures that any changes made to the code are reflected immediately without needing to restart the server.
 This setup allows users to send a *POST request* to /predict with the banknote's features and receive a real-time prediction based on the trained model
+
+
+
+
